@@ -1,0 +1,17 @@
+{
+    "name": "youcode/mise-en-situation",
+    "autoload": {
+        "psr-4": {
+            "Youcode\\MiseEnSituation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tougha sara",
+            "email": "toughasarah@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
